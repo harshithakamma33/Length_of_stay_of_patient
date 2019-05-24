@@ -1,0 +1,500 @@
+date,location,age,disease,sevearity_of_the_disease,frequency_of_suffering,pulse,duration_of_suffering,length_of_stay
+06-04-2012,India,42,heartstroke,high,regural,96,6,3
+07-05-2012,India,41,cancer,low,irregular,61,2,2
+09-01-2012,India,42,heartstroke,moderate,irregular,64,4,1
+05-11-2012,India,39,cancer,low,irregular,76,2,5
+06-04-2012,India,43,cancer,low,regular,67,2,2
+07-05-2012,India,44,bone fracture,high,irregular,83,6,7
+09-01-2012,India,50,bone fracture,moderate,irregular,68,4,3
+05-11-2012,India,29,fever,high,regular,63,6,3
+09-01-2012,India,44,fever,high,regular,69,6,10
+09-01-2012,India,27,heartstroke,moderate,irregular,65,4,2
+09-01-2012,India,31,cancer,high,regular,73,6,8
+09-01-2012,India,24,bone fracture,low,irregular,63,2,3
+09-01-2012,India,34,heartstroke,moderate,irregular,82,4,6
+09-01-2012,India,25,cancer,moderate,irregular,73,4,9
+09-01-2012,India,8,fever,low,regular,69,2,6
+06-04-2012,India,45,fever,high,irregular,68,6,30
+06-04-2012,India,58,cancer,moderate,regular,66,4,7
+06-04-2012,India,24,cancer,low,irregular,72,2,10
+06-04-2012,India,45,bone fracture,high,regular,63,6,4
+06-04-2012,India,24,bone fracture,low,regular,72,2,11
+06-04-2012,India,41,cancer,moderate,irregular,75,4,14
+06-04-2012,India,32,astma,low,irregular,77,2,12
+06-04-2012,India,38,cancer,low,irregular,70,2,4
+06-04-2012,India,46,cancer,high,irregular,101,6,9
+06-04-2012,India,38,bone fracture,moderate,regular,62,4,6
+06-04-2012,India,25,bone fracture,high,regular,81,6,12
+8/29/2012,India,36,fever,high,irregular,88,6,11
+5/26/2012,India,44,fever,moderate,irregular,65,4,2
+9/22/2012,India,43,fever,high,regular,75,6,1
+08-09-2012,India,29,heartstroke,low,irregular,66,2,5
+12/20/2012,India,39,cancer,moderate,regular,72,4,2
+11/27/2012,India,36,heartstroke,moderate,regular,72,4,15
+9/27/2012,India,41,cancer,low,irregular,78,2,3
+06-04-2012,India,42,cancer,high,regular,61,6,3
+07-05-2012,India,29,bone fracture,moderate,regular,95,4,10
+09-01-2012,India,45,bone fracture,low,irregular,70,2,2
+05-11-2012,India,31,fever,high,regular,71,6,8
+4/21/2012,India,33,fever,low,irregular,78,2,3
+07-08-2012,India,36,heartstroke,moderate,irregular,84,4,6
+12-05-2012,India,41,cancer,low,regular,68,2,9
+6/15/2012,India,40,bone fracture,low,regular,55,2,6
+3/14/2012,India,51,heartstroke,high,regular,72,6,30
+12-10-2012,India,61,cancer,moderate,regular,68,4,7
+10/24/2012,India,49,fever,high,regular,92,6,10
+07-10-2012,India,61,fever,high,irregular,79,6,4
+06-06-2012,India,32,cancer,moderate,irregular,89,4,11
+7/31/2012,India,27,cancer,high,irregular,57,6,14
+8/24/2012,India,39,bone fracture,low,irregular,73,2,12
+12/26/2012,India,38,bone fracture,moderate,irregular,86,4,4
+03-10-2012,India,37,cancer,moderate,irregular,89,4,9
+6/14/2012,India,44,astma,low,regular,70,2,6
+07-08-2012,India,36,cancer,high,regular,97,6,12
+11/27/2012,India,33,cancer,moderate,irregular,71,4,11
+6/28/2012,India,41,bone fracture,low,irregular,76,2,2
+5/13/2012,India,42,bone fracture,high,regular,72,6,1
+01-12-2012,India,43,fever,low,regular,86,2,5
+11-11-2012,India,45,fever,moderate,irregular,62,4,2
+7/24/2012,India,19,fever,low,irregular,68,2,15
+08-04-2012,India,66,bone fracture,low,regular,87,2,3
+7/15/2012,India,51,astma,high,irregular,76,6,3
+4/13/2012,India,8,fever,moderate,irregular,66,4,10
+10/26/2012,India,27,heartstroke,high,irregular,67,6,2
+11/23/2012,India,33,cancer,high,regular,74,6,1
+04-08-2012,India,56,cancer,moderate,regular,97,4,5
+12-04-2012,India,26,bone fracture,high,irregular,61,6,2
+10-05-2012,India,36,bone fracture,low,irregular,66,2,15
+05-05-2012,India,34,astma,moderate,irregular,72,4,3
+09-01-2012,India,43,fever,moderate,irregular,71,4,3
+11-01-2012,India,8,heartstroke,low,irregular,61,2,10
+4/30/2012,India,21,cancer,high,regular,59,6,2
+2/22/2012,India,58,cancer,moderate,regular,69,4,8
+11/27/2012,India,29,bone fracture,low,regular,88,2,3
+01-09-2012,India,37,bone fracture,high,regular,76,6,6
+8/25/2012,India,25,heartstroke,low,regular,72,2,9
+4/13/2012,India,36,cancer,moderate,regular,77,4,6
+9/27/2012,India,21,heartstroke,low,regular,61,2,30
+09-09-2012,India,55,cancer,low,regular,75,2,7
+7/29/2012,India,32,cancer,high,irregular,84,6,10
+03-01-2012,India,33,bone fracture,moderate,irregular,92,4,4
+10/25/2012,India,41,bone fracture,high,irregular,44,6,11
+8/25/2012,India,34,fever,high,regular,90,6,14
+11-02-2012,India,32,fever,moderate,regular,73,4,12
+09-02-2012,India,36,heartstroke,high,regular,74,6,4
+11-03-2012,India,34,cancer,low,regular,72,2,9
+5/25/2012,India,46,bone fracture,moderate,regular,85,4,6
+04-11-2012,India,75,heartstroke,moderate,irregular,85,4,12
+3/13/2012,India,22,cancer,low,irregular,80,2,11
+1/23/2012,India,30,fever,high,irregular,76,6,2
+05-05-2012,India,46,fever,moderate,regular,79,4,1
+6/24/2012,India,28,cancer,low,regular,93,2,5
+3/30/2012,India,44,cancer,high,regular,67,6,2
+10-07-2012,India,45,bone fracture,low,irregular,58,2,15
+9/25/2012,India,36,bone fracture,moderate,irregular,77,4,3
+11/25/2012,India,29,cancer,low,irregular,46,2,3
+5/24/2012,India,42,astma,low,regular,83,2,10
+7/22/2012,India,8,cancer,high,regular,53,6,2
+7/14/2012,India,41,cancer,moderate,regular,74,4,8
+02-01-2012,India,29,bone fracture,high,regular,70,6,3
+10/30/2012,India,22,bone fracture,high,regular,48,6,6
+9/27/2012,India,34,fever,moderate,regular,70,4,9
+10/28/2012,India,40,fever,high,regular,52,6,6
+01-12-2012,India,44,fever,low,regular,90,2,30
+04-11-2012,India,31,heartstroke,moderate,regular,76,4,7
+04-12-2012,India,36,cancer,moderate,irregular,69,4,10
+04-11-2012,India,65,heartstroke,low,irregular,84,2,4
+1/21/2012,India,46,cancer,high,irregular,68,6,11
+9/22/2012,India,32,cancer,moderate,irregular,68,4,14
+12/28/2012,India,36,bone fracture,low,irregular,64,2,12
+6/29/2012,India,33,bone fracture,high,regular,83,6,4
+1/23/2012,India,8,fever,low,regular,74,2,9
+11/20/2012,India,30,fever,low,regular,61,2,6
+5/26/2012,India,39,heartstroke,moderate,regular,81,4,12
+2/20/2012,India,42,cancer,low,regular,89,2,11
+8/23/2012,India,36,bone fracture,low,regular,85,2,2
+12-12-2012,India,28,heartstroke,high,regular,74,6,1
+10/29/2012,India,30,cancer,moderate,regular,64,4,5
+10/22/2012,India,37,fever,high,regular,63,6,2
+08-09-2012,India,41,fever,high,irregular,71,6,15
+09-03-2012,India,31,cancer,moderate,irregular,86,4,3
+02-07-2012,India,34,cancer,high,irregular,66,6,3
+02-01-2012,India,34,bone fracture,low,irregular,77,2,10
+4/26/2012,India,39,bone fracture,moderate,irregular,81,4,2
+4/14/2012,India,39,cancer,moderate,regular,80,4,1
+07-12-2012,India,48,astma,low,regular,60,2,5
+09-11-2012,India,28,cancer,high,regular,89,6,2
+8/29/2012,India,42,cancer,moderate,regular,98,4,15
+05-03-2012,India,52,bone fracture,low,regular,69,2,3
+10-11-2012,India,56,bone fracture,high,regular,69,6,3
+11-05-2012,India,41,fever,low,regular,75,2,10
+2/26/2012,India,24,fever,low,regular,81,2,2
+09-09-2012,India,34,fever,high,regular,76,6,8
+1/25/2012,India,33,bone fracture,moderate,regular,78,4,3
+08-03-2012,India,38,heartstroke,high,irregular,75,6,6
+9/16/2012,India,25,cancer,high,irregular,76,6,9
+9/23/2012,India,39,heartstroke,moderate,irregular,89,4,6
+4/16/2012,India,50,cancer,high,regular,79,6,30
+10/19/2012,India,34,cancer,low,regular,70,2,7
+8/15/2012,India,40,bone fracture,moderate,regular,66,4,10
+3/14/2012,India,48,bone fracture,moderate,regular,66,4,4
+8/24/2012,India,8,fever,low,regular,78,2,11
+3/28/2012,India,44,fever,high,regular,62,6,14
+1/28/2012,India,34,heartstroke,moderate,irregular,70,4,12
+12/28/2012,India,43,cancer,low,irregular,56,2,4
+1/26/2012,India,52,bone fracture,high,irregular,82,6,9
+11-02-2012,India,31,heartstroke,low,irregular,71,2,6
+8/14/2012,India,21,cancer,low,regular,86,2,12
+05-09-2012,India,29,fever,moderate,regular,72,4,11
+10/28/2012,India,37,fever,low,regular,63,2,2
+03-01-2012,India,44,cancer,low,regular,83,2,1
+02-12-2012,India,32,cancer,high,regular,63,6,5
+4/30/2012,India,32,bone fracture,moderate,regular,61,4,2
+11/17/2012,India,48,bone fracture,high,regular,54,6,15
+06-05-2012,India,42,cancer,high,regular,69,6,3
+4/15/2012,India,37,astma,moderate,regular,96,4,3
+2/23/2012,India,43,cancer,high,regular,89,6,10
+7/28/2012,India,57,cancer,low,irregular,74,2,2
+1/15/2012,India,33,bone fracture,moderate,irregular,78,4,8
+5/15/2012,India,28,bone fracture,moderate,irregular,82,4,3
+8/19/2012,India,73,fever,low,irregular,87,2,6
+11/21/2012,India,33,fever,high,irregular,75,6,9
+06-11-2012,India,22,fever,moderate,irregular,56,4,6
+2/15/2012,India,30,heartstroke,low,irregular,71,2,30
+03-08-2012,India,49,cancer,high,irregular,75,6,7
+11/16/2012,India,36,heartstroke,high,regular,62,6,10
+1/23/2012,India,29,cancer,low,regular,86,2,4
+01-08-2012,India,31,cancer,low,regular,66,2,11
+06-08-2012,India,24,bone fracture,high,regular,77,6,14
+3/17/2012,India,41,bone fracture,moderate,regular,86,4,12
+12/27/2012,India,39,fever,high,regular,90,6,4
+12-03-2012,India,24,fever,high,regular,94,6,9
+09-03-2012,India,29,heartstroke,moderate,regular,74,4,6
+04-10-2012,India,27,cancer,high,regular,73,6,12
+07-03-2012,India,44,bone fracture,low,regular,95,2,11
+12-08-2012,India,30,heartstroke,moderate,regular,78,4,2
+5/14/2012,India,40,cancer,moderate,regular,64,4,1
+9/18/2012,India,8,fever,low,regular,62,2,5
+12/31/2012,India,30,fever,high,regular,87,6,2
+08-02-2012,India,36,cancer,moderate,irregular,57,4,15
+12/14/2012,India,40,cancer,low,irregular,70,2,3
+09-07-2012,India,55,bone fracture,high,irregular,53,6,3
+11-06-2012,India,45,bone fracture,low,irregular,76,2,10
+1/30/2012,India,65,cancer,low,irregular,51,2,2
+05-04-2012,India,45,astma,moderate,irregular,70,4,1
+07-02-2012,India,42,cancer,low,irregular,88,2,5
+2/24/2012,India,50,cancer,low,irregular,61,2,2
+9/29/2012,India,32,bone fracture,high,irregular,62,6,15
+04-12-2012,India,39,bone fracture,moderate,regular,54,4,3
+9/17/2012,India,37,fever,high,regular,89,6,3
+2/21/2012,India,30,fever,high,regular,88,6,10
+10/15/2012,India,34,fever,moderate,regular,85,4,2
+3/30/2012,India,41,bone fracture,high,irregular,89,6,8
+03-03-2012,India,36,astma,low,irregular,67,2,3
+5/17/2012,India,40,fever,moderate,irregular,85,4,6
+4/14/2012,India,32,heartstroke,moderate,regular,75,4,9
+12/27/2012,India,29,cancer,low,regular,86,2,6
+7/30/2012,India,8,cancer,high,regular,85,6,30
+10/20/2012,India,32,bone fracture,moderate,regular,68,4,7
+11-12-2012,India,37,bone fracture,low,regular,77,2,10
+11/28/2012,India,57,astma,high,regular,63,6,4
+09-03-2012,India,8,fever,high,regular,54,6,11
+7/13/2012,India,30,heartstroke,high,regular,68,6,14
+12/21/2012,India,42,cancer,low,irregular,78,2,12
+7/16/2012,India,50,cancer,low,irregular,81,2,4
+12/18/2012,India,38,bone fracture,high,irregular,68,6,9
+03-12-2012,India,33,bone fracture,moderate,regular,80,4,6
+7/23/2012,India,37,heartstroke,high,regular,76,6,12
+09-06-2012,India,41,cancer,high,regular,80,6,11
+4/25/2012,India,34,heartstroke,moderate,regular,84,4,2
+10-09-2012,India,45,cancer,high,regular,70,6,1
+11-01-2012,India,45,cancer,low,regular,88,2,5
+9/20/2012,India,33,bone fracture,moderate,regular,65,4,2
+3/22/2012,India,31,bone fracture,moderate,irregular,64,4,15
+5/16/2012,India,41,fever,low,irregular,78,2,3
+2/24/2012,India,34,fever,high,irregular,87,6,3
+10/27/2012,India,26,heartstroke,moderate,irregular,81,4,10
+1/25/2012,India,47,cancer,low,irregular,84,2,2
+9/30/2012,India,46,bone fracture,high,irregular,80,6,8
+5/28/2012,India,33,heartstroke,low,irregular,59,2,3
+3/31/2012,India,43,cancer,low,irregular,75,2,6
+9/16/2012,India,54,fever,moderate,regular,66,4,9
+01-08-2012,India,31,fever,low,regular,64,2,6
+01-01-2012,India,30,cancer,low,regular,80,2,30
+03-06-2012,India,42,cancer,high,regular,73,6,7
+7/21/2012,India,33,bone fracture,moderate,regular,75,4,10
+10/26/2012,India,45,bone fracture,high,regular,70,6,4
+6/17/2012,India,37,cancer,high,regular,63,6,11
+12/13/2012,India,30,astma,moderate,regular,85,4,14
+12/19/2012,India,39,cancer,high,irregular,60,6,12
+06-09-2012,India,50,cancer,low,irregular,88,2,4
+4/15/2012,India,29,bone fracture,moderate,irregular,73,4,9
+6/19/2012,India,72,bone fracture,moderate,irregular,68,4,6
+11/19/2012,India,40,fever,low,irregular,95,2,12
+5/13/2012,India,37,fever,high,irregular,67,6,11
+12-04-2012,India,20,fever,moderate,irregular,109,4,2
+07-08-2012,India,67,heartstroke,low,regular,79,2,1
+11-11-2012,India,42,cancer,high,regular,95,6,5
+01-10-2012,India,29,heartstroke,moderate,regular,77,4,2
+8/14/2012,India,43,cancer,low,regular,65,2,15
+9/13/2012,India,46,cancer,low,regular,90,2,3
+07-10-2012,India,28,bone fracture,high,irregular,41,6,3
+3/16/2012,India,38,bone fracture,moderate,regular,76,4,10
+10-12-2012,India,39,fever,high,regular,78,6,5
+5/16/2012,India,37,fever,high,regular,82,6,2
+2/14/2012,India,67,heartstroke,moderate,regular,67,4,1
+10/22/2012,India,34,cancer,high,irregular,73,6,5
+05-12-2012,India,40,bone fracture,low,irregular,70,2,2
+2/27/2012,India,26,heartstroke,moderate,irregular,77,4,15
+10-10-2012,India,26,cancer,moderate,regular,74,4,3
+8/24/2012,India,24,fever,low,regular,77,2,3
+09-02-2012,India,54,fever,high,regular,82,6,10
+7/14/2012,India,36,cancer,moderate,regular,67,4,2
+03-04-2012,India,34,cancer,low,irregular,52,2,8
+7/27/2012,India,79,bone fracture,high,regular,75,6,3
+10/31/2012,India,37,bone fracture,low,regular,56,2,6
+02-01-2012,India,28,cancer,moderate,regular,96,4,9
+10/24/2012,India,41,astma,low,regular,56,2,6
+11/28/2012,India,34,cancer,low,regular,56,2,30
+6/17/2012,India,34,cancer,high,regular,73,6,7
+8/30/2012,India,30,bone fracture,moderate,irregular,65,4,10
+11/28/2012,India,38,bone fracture,high,irregular,78,6,4
+6/28/2012,India,42,fever,high,irregular,95,6,11
+6/23/2012,India,48,fever,moderate,irregular,64,4,14
+12/25/2012,India,32,fever,high,irregular,69,6,12
+01-11-2012,India,26,bone fracture,low,irregular,56,2,4
+11/23/2012,India,31,fever,moderate,regular,71,4,9
+3/29/2012,India,36,heartstroke,moderate,regular,92,4,6
+9/20/2012,India,34,cancer,low,regular,85,2,12
+1/26/2012,India,36,cancer,high,regular,43,6,11
+04-11-2012,India,39,bone fracture,moderate,regular,71,4,2
+12/26/2012,India,8,bone fracture,low,irregular,83,2,1
+10-08-2012,India,41,heartstroke,high,irregular,84,6,5
+12/26/2012,India,34,cancer,low,irregular,71,2,2
+6/30/2012,India,34,heartstroke,moderate,irregular,86,4,15
+6/18/2012,India,30,cancer,low,irregular,86,2,3
+07-02-2012,India,28,cancer,low,irregular,64,2,3
+09-09-2012,India,37,bone fracture,high,irregular,54,6,10
+01-03-2012,India,62,bone fracture,moderate,regular,86,4,2
+6/14/2012,India,53,fever,high,regular,69,6,8
+3/23/2012,India,8,fever,high,regular,83,6,3
+02-01-2012,India,46,heartstroke,moderate,regular,81,4,6
+12-12-2012,India,39,cancer,high,regular,64,6,9
+04-03-2012,India,29,bone fracture,low,irregular,59,2,6
+01-09-2012,India,8,heartstroke,moderate,irregular,84,4,30
+5/20/2012,India,42,cancer,moderate,irregular,85,4,7
+09-07-2012,India,22,fever,low,irregular,57,2,10
+06-12-2012,India,40,fever,high,irregular,97,6,4
+10-12-2012,India,29,cancer,moderate,regular,78,4,11
+5/24/2012,India,32,cancer,low,regular,76,2,14
+7/24/2012,India,26,bone fracture,high,regular,82,6,12
+09-12-2012,India,34,bone fracture,low,regular,86,2,4
+10/21/2012,India,42,cancer,moderate,regular,92,4,9
+8/20/2012,India,41,astma,low,regular,52,2,6
+6/19/2012,India,27,cancer,low,irregular,91,2,12
+10/25/2012,India,34,cancer,high,irregular,74,6,11
+9/24/2012,India,38,bone fracture,moderate,irregular,65,4,2
+03-10-2012,India,25,bone fracture,high,irregular,83,6,1
+05-08-2012,India,31,fever,high,irregular,77,6,5
+9/30/2012,India,44,fever,moderate,irregular,93,4,2
+9/27/2012,India,58,fever,high,irregular,81,6,15
+01-06-2012,India,33,heartstroke,low,regular,72,2,3
+1/22/2012,India,31,cancer,moderate,regular,79,4,3
+11/17/2012,India,36,heartstroke,moderate,regular,65,4,10
+01-04-2012,India,8,cancer,low,regular,77,2,2
+5/28/2012,India,33,cancer,high,regular,89,6,1
+01-12-2012,India,33,bone fracture,moderate,regular,94,4,5
+8/26/2012,India,31,bone fracture,low,regular,62,2,2
+12/16/2012,India,43,fever,high,regular,65,6,15
+4/26/2012,India,8,fever,low,irregular,69,2,3
+11-02-2012,India,50,heartstroke,moderate,irregular,77,4,3
+02-08-2012,India,31,cancer,low,irregular,63,2,10
+11/20/2012,India,80,bone fracture,low,irregular,54,2,2
+2/15/2012,India,30,heartstroke,high,irregular,81,6,8
+11-11-2012,India,38,cancer,moderate,irregular,66,4,3
+06-11-2012,India,59,fever,high,irregular,72,6,6
+11-01-2012,India,36,fever,high,irregular,77,6,9
+07-03-2012,India,37,cancer,moderate,irregular,73,4,6
+9/23/2012,India,49,cancer,high,regular,80,6,30
+7/22/2012,India,42,bone fracture,low,regular,50,2,7
+10/21/2012,India,22,bone fracture,moderate,regular,79,4,10
+2/22/2012,India,24,cancer,moderate,regular,57,4,4
+5/25/2012,India,57,astma,low,irregular,89,2,11
+4/24/2012,India,30,cancer,high,irregular,47,6,14
+11-12-2012,India,40,cancer,moderate,irregular,85,4,12
+1/17/2012,India,31,bone fracture,low,regular,65,2,4
+08-10-2012,India,30,bone fracture,high,regular,56,6,9
+5/20/2012,India,8,fever,low,regular,76,2,6
+7/26/2012,India,8,fever,moderate,regular,63,4,12
+5/29/2012,India,46,fever,low,regular,79,2,11
+8/24/2012,India,8,bone fracture,low,regular,67,2,2
+10/24/2012,India,26,heartstroke,high,regular,75,6,1
+04-12-2012,India,50,cancer,moderate,irregular,80,4,5
+1/24/2012,India,40,heartstroke,high,irregular,64,6,2
+11-02-2012,India,44,cancer,high,irregular,70,6,15
+08-12-2012,India,30,cancer,moderate,irregular,67,4,3
+10/23/2012,India,37,bone fracture,high,irregular,73,6,3
+10-05-2012,India,29,bone fracture,low,irregular,74,2,10
+10-12-2012,India,32,fever,moderate,regular,69,4,2
+11-11-2012,India,33,fever,moderate,regular,79,4,8
+10/30/2012,India,39,heartstroke,low,regular,74,2,3
+02-01-2012,India,39,cancer,high,regular,74,6,6
+2/18/2012,India,40,bone fracture,moderate,regular,59,4,9
+6/21/2012,India,31,heartstroke,low,irregular,89,2,6
+2/17/2012,India,47,cancer,high,irregular,68,6,30
+05-06-2012,India,22,fever,low,irregular,82,2,7
+7/15/2012,India,25,fever,low,regular,55,2,10
+01-05-2012,India,43,cancer,moderate,regular,80,4,4
+4/13/2012,India,34,cancer,low,regular,83,2,11
+4/28/2012,India,59,bone fracture,low,irregular,75,2,14
+02-02-2012,India,32,bone fracture,high,irregular,62,6,12
+02-12-2012,India,39,cancer,moderate,irregular,82,4,4
+02-02-2012,India,32,astma,high,regular,82,6,9
+8/28/2012,India,39,cancer,high,regular,64,6,6
+8/19/2012,India,32,cancer,moderate,regular,90,4,12
+7/15/2012,India,25,bone fracture,high,regular,75,6,11
+11/22/2012,India,45,bone fracture,low,regular,71,2,2
+02-11-2012,India,30,fever,moderate,regular,64,4,1
+10-04-2012,India,57,fever,moderate,regular,72,4,5
+08-04-2012,India,34,fever,low,regular,71,2,2
+7/14/2012,India,41,heartstroke,high,regular,68,6,15
+12/19/2012,India,58,cancer,moderate,regular,73,4,3
+10/21/2012,India,28,heartstroke,low,irregular,78,2,3
+05-08-2012,India,45,cancer,high,irregular,98,6,10
+8/14/2012,India,50,cancer,low,irregular,61,2,2
+12/16/2012,India,29,bone fracture,low,irregular,62,2,1
+4/21/2012,India,68,bone fracture,high,irregular,60,6,5
+07-09-2012,India,33,fever,moderate,irregular,80,4,2
+7/25/2012,India,42,fever,high,irregular,82,6,15
+01-07-2012,India,8,heartstroke,high,irregular,75,6,3
+02-02-2012,India,34,cancer,moderate,regular,58,4,3
+6/16/2012,India,29,bone fracture,high,regular,65,6,10
+06-02-2012,India,42,heartstroke,low,regular,75,2,2
+12-05-2012,India,75,cancer,moderate,regular,77,4,8
+11/13/2012,India,31,fever,moderate,regular,85,4,3
+12/29/2012,India,31,fever,low,regular,73,2,6
+10/14/2012,India,8,cancer,high,regular,65,6,9
+10/13/2012,India,39,cancer,moderate,regular,88,4,6
+3/28/2012,India,45,bone fracture,low,regular,78,2,30
+1/24/2012,India,8,bone fracture,high,irregular,73,6,7
+02-05-2012,India,30,cancer,low,irregular,60,2,10
+6/16/2012,India,39,astma,low,regular,71,2,4
+05-04-2012,India,50,cancer,moderate,regular,87,4,11
+8/23/2012,India,36,cancer,low,regular,82,2,14
+9/18/2012,India,30,bone fracture,low,regular,74,2,12
+1/19/2012,India,28,bone fracture,high,regular,82,6,4
+12/30/2012,India,44,fever,moderate,regular,90,4,9
+5/27/2012,India,66,fever,high,irregular,79,6,6
+2/22/2012,India,46,fever,high,irregular,94,6,12
+9/15/2012,India,62,bone fracture,moderate,regular,78,4,11
+6/24/2012,India,45,heartstroke,high,regular,76,6,2
+2/22/2012,India,21,cancer,low,regular,68,2,1
+12/17/2012,India,29,heartstroke,moderate,regular,71,4,5
+1/29/2012,India,38,cancer,moderate,regular,71,4,2
+2/23/2012,India,46,cancer,low,regular,70,2,15
+6/30/2012,India,38,bone fracture,high,regular,70,6,3
+2/17/2012,India,24,bone fracture,moderate,regular,80,4,3
+05-05-2012,India,37,fever,low,regular,83,2,10
+01-08-2012,India,33,fever,high,irregular,70,6,2
+06-10-2012,India,32,heartstroke,high,irregular,65,6,8
+7/23/2012,India,39,cancer,low,irregular,73,2,3
+8/25/2012,India,66,bone fracture,low,irregular,72,2,6
+11-03-2012,India,52,heartstroke,high,irregular,88,6,9
+2/17/2012,India,38,cancer,moderate,irregular,67,4,6
+9/22/2012,India,52,fever,high,irregular,92,6,30
+12/21/2012,India,36,fever,high,irregular,72,6,7
+1/28/2012,India,23,cancer,moderate,regular,86,4,10
+03-01-2012,India,36,cancer,high,regular,69,6,4
+08-04-2012,India,49,bone fracture,low,regular,70,2,11
+8/25/2012,India,37,bone fracture,moderate,regular,76,4,14
+04-09-2012,India,37,cancer,moderate,regular,67,4,12
+06-02-2012,India,41,astma,low,regular,54,2,4
+12/19/2012,India,23,cancer,high,regular,69,6,9
+1/18/2012,India,38,cancer,moderate,regular,71,4,6
+11/22/2012,India,31,bone fracture,low,irregular,62,2,12
+1/23/2012,India,41,bone fracture,high,regular,65,6,11
+7/24/2012,India,8,fever,low,regular,84,2,2
+12/25/2012,India,26,fever,low,regular,71,2,1
+12-07-2012,India,61,fever,moderate,regular,92,4,5
+06-05-2012,India,39,heartstroke,low,regular,85,2,2
+08-11-2012,India,46,cancer,low,irregular,76,2,15
+09-03-2012,India,28,heartstroke,high,irregular,88,6,3
+09-09-2012,India,60,cancer,moderate,irregular,79,4,3
+11/18/2012,India,38,cancer,high,regular,61,6,10
+02-03-2012,India,40,bone fracture,high,regular,68,6,2
+12-07-2012,India,8,bone fracture,moderate,regular,74,4,1
+05-12-2012,India,39,fever,high,irregular,58,6,5
+10/27/2012,India,26,fever,low,regular,75,2,2
+04-03-2012,India,39,heartstroke,moderate,regular,100,4,15
+10/20/2012,India,45,cancer,moderate,regular,66,4,3
+8/22/2012,India,40,bone fracture,low,regular,77,2,3
+2/23/2012,India,40,heartstroke,high,regular,76,6,10
+07-07-2012,India,57,cancer,moderate,irregular,70,4,2
+6/28/2012,India,41,fever,low,irregular,93,2,8
+12-12-2012,India,33,fever,high,regular,56,6,3
+12/16/2012,India,37,cancer,high,regular,68,6,6
+12-12-2012,India,33,cancer,high,regular,56,6,9
+2/22/2012,India,51,bone fracture,low,regular,56,2,6
+11/30/2012,India,30,bone fracture,low,regular,70,2,30
+12/31/2012,India,8,cancer,high,regular,52,6,7
+11/18/2012,India,38,astma,moderate,regular,80,4,10
+09-10-2012,India,42,cancer,high,regular,60,6,4
+7/23/2012,India,8,cancer,high,irregular,72,6,11
+5/13/2012,India,31,bone fracture,moderate,irregular,45,4,14
+2/19/2012,India,34,bone fracture,high,irregular,64,6,12
+06-01-2012,India,46,fever,low,irregular,61,2,4
+11/24/2012,India,47,fever,moderate,irregular,88,4,9
+12/26/2012,India,26,fever,moderate,regular,56,4,6
+11-03-2012,India,37,bone fracture,low,regular,65,2,12
+5/16/2012,India,40,astma,high,regular,78,6,11
+5/29/2012,India,38,fever,moderate,regular,86,4,2
+9/16/2012,India,47,heartstroke,low,regular,87,2,1
+05-01-2012,India,38,cancer,high,regular,57,6,5
+04-05-2012,India,40,cancer,low,irregular,67,2,2
+3/30/2012,India,31,bone fracture,low,irregular,62,2,15
+8/30/2012,India,44,bone fracture,moderate,irregular,59,4,3
+03-08-2012,India,39,astma,low,irregular,67,2,3
+02-03-2012,India,36,fever,low,regular,81,2,10
+4/28/2012,India,33,heartstroke,high,regular,63,6,2
+11-11-2012,India,38,cancer,moderate,regular,72,4,8
+07-09-2012,India,43,cancer,high,regular,76,6,3
+3/14/2012,India,37,bone fracture,high,regular,67,6,6
+4/28/2012,India,29,bone fracture,moderate,regular,71,4,9
+2/29/2012,India,39,heartstroke,high,regular,61,6,6
+06-07-2012,India,25,cancer,low,regular,63,2,30
+12-04-2012,India,32,heartstroke,moderate,regular,77,4,7
+4/29/2012,India,26,cancer,moderate,irregular,53,4,10
+01-10-2012,India,33,cancer,low,irregular,79,2,4
+02-03-2012,India,32,bone fracture,high,irregular,100,6,11
+05-06-2012,India,38,bone fracture,moderate,irregular,83,4,14
+10/31/2012,India,8,fever,low,irregular,74,2,12
+3/26/2012,India,8,fever,high,irregular,66,6,4
+08-07-2012,India,27,heartstroke,moderate,regular,70,4,9
+12-02-2012,India,37,cancer,low,regular,72,2,6
+2/27/2012,India,26,bone fracture,low,regular,72,2,12
+6/20/2012,India,28,heartstroke,high,regular,93,6,11
+9/18/2012,India,33,cancer,moderate,regular,59,4,2
+08-05-2012,India,46,fever,high,regular,88,6,1
+12/18/2012,India,31,fever,high,irregular,63,6,5
+09-02-2012,India,40,cancer,moderate,irregular,61,4,2
+9/28/2012,India,38,cancer,high,regular,65,6,15
+07-03-2012,India,29,bone fracture,low,regular,63,2,3
+11-11-2012,India,34,bone fracture,moderate,irregular,75,4,3
+9/25/2012,India,23,cancer,moderate,regular,70,4,10
+09-01-2012,India,37,astma,low,regular,74,2,5
+11/18/2012,India,37,cancer,high,irregular,52,6,2
+7/18/2012,India,61,cancer,moderate,regular,89,4,1
+5/16/2012,India,8,bone fracture,low,irregular,73,2,5
+11/19/2012,India,37,bone fracture,high,regular,87,6,2
+12/26/2012,India,39,fever,low,regular,76,2,15
+11-02-2012,India,30,fever,moderate,irregular,77,4,3
+02-05-2012,India,55,fever,low,irregular,79,2,3
+02-05-2012,India,29,heartstroke,low,regular,87,2,10
+02-05-2012,India,41,cancer,high,irregular,75,6,2
+12-05-2012,India,38,heartstroke,moderate,regular,91,4,8
+12-05-2012,India,47,cancer,high,irregular,62,6,3
+12-05-2012,India,38,cancer,high,regular,59,6,6
+12-05-2012,India,36,bone fracture,moderate,regular,86,4,9
+12-05-2012,India,32,bone fracture,high,regular,68,6,6
+12-05-2012,India,40,fever,low,irregular,61,2,30
+12-05-2012,India,26,fever,moderate,irregular,70,6,7
